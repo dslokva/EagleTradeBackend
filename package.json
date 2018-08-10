@@ -6,7 +6,9 @@
   "dependencies": {
     "async": "^2.6.0",
     "express": "^4.16.2",
+    "jshint": "^2.9.6",
     "node-wex": "^1.0.3",
+    "sleep": "^5.2.3",
     "ws": "^4.0.0"
   },
   "devDependencies": {},
